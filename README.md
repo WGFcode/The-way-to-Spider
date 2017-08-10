@@ -14,9 +14,9 @@
 
 # 以下是目录:
 
-* [前言](./first.md)
-  * [介绍](./foreword/introduce.md)
-  * [有关爬虫的一些事](./foreword/about.md)
+* [前言](first.md)
+  * [介绍](foreword/introduce.md)
+  * [有关爬虫的一些事](foreword/about.md)
 * [使用](./aaa.md)
   * [爬虫可以用来做什么](./use/do.md)
   * [搜索引擎类](./use/search.md)
