@@ -1,6 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
 * [前言](first.md)
   * [介绍](foreword/introduce.md)
   * [有关爬虫的一些事](foreword/about.md)
